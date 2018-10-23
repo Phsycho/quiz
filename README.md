@@ -44,6 +44,6 @@ It is django based quiz app for multiple choice questions.
   `python manage.py runserver` 
  
 5) ### Reference
-  I have refernced this quizz app from [tomwalker's](https://github.com/tomwalker) original repo. 
-  Reference link to the quiz app repo is [here](https://github.com/tomwalker/django_quiz)
+  We have refernced this quizz app from [tomwalker's](https://github.com/sswapnil2/django-quiz-app.git) original repo. 
+
   
